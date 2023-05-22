@@ -1,0 +1,3 @@
+﻿  binaryTree.cpp
+D:\MyTable\Projects\OOP\2022-2024_OOP_PA-21-1_09\Lab2\Lib_OOP_2\Lib_OOP_2\binaryTree.cpp(49,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lib_OOP_2.vcxproj -> D:\MyTable\Projects\OOP\2022-2024_OOP_PA-21-1_09\Lab2\Lib_OOP_2\x64\Debug\Lib_OOP_2.lib
